@@ -1,3 +1,33 @@
+body{
+    background-color: blueviolet;
+}
 h3{
     font-size: 50px;
+}
+.list-1{
+    font-size: 25px;
+}
+.list-6{
+    color: greenyellow;
+}
+#name-1{
+    font-size: 25px;
+}
+.one{
+    color: green;
+    line-height: 18px;
+}
+.new{
+    color: royalblue;
+    font-style: italic;
+    text-indent: 10cm;
+    text-shadow: 10px 15px 5px green;
+    letter-spacing: 5px;
+    word-spacing: 10px;
+}
+a{
+    text-decoration: none;
+}
+a{
+    text-transform: uppercase;
 }
